@@ -1,10 +1,19 @@
 body {
   font-family: sans-serif;
-  background-color: #ffffff;
+  background-color: #ffffff41;
+}
+
+head {
+  font-family: sans-serif;
+  background-color: #ff575781;
+}
+
+.title {
+  background-color: #ff575781;
 }
 
 #label-container {
-  display: center;
+  display: none;
   text-align: center;
 }
 
@@ -44,7 +53,6 @@ body {
 }
 
 .file-upload-content {
-  display: none;
   text-align: center;
 }
 
